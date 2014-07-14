@@ -4,7 +4,7 @@ var ldDataset = 'rdf1s1059i';
 var ldFileName = 'osaka_landscape';
 
 
-var maxZoom = 30;
+var maxZoom = 19;
 var fieldSeparator = '\t';
 var  baseUrl = "http://j.tile.openstreetmap.jp/{z}/{x}/{y}.png";
 var baseAttribution = 'Map data &copy; OpenStreetMap contributors, Tiles Courtesy of OpenStreetMap Japan';
